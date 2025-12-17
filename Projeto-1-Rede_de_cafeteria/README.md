@@ -1,0 +1,1 @@
+PROJETO Desenvolver um dashboard para a rede de cafeteria. O demandante gostaria de conseguir acompanhar as vendas diariamente e entender quais as principais lojas e produtos vendidos. Além de KPIs estratégicos, que ajudem a identificar padrões e tomar decisões baseadas em dados.
