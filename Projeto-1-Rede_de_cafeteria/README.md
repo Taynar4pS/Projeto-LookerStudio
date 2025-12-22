@@ -35,37 +35,40 @@ Essa abordagem permite uma leitura intuitiva, indo do **macro para o detalhado**
 ## 📈 Principais Visualizações
 
 ### 🔹 Indicadores-Chave (KPIs)
-![KPIs](KPI's.png)
+![KPIs](Projeto-1-Rede_de_cafeteria/Outputs/Imagens/KPI's.png)
 
 Os KPIs apresentam uma visão rápida do desempenho geral, como volume de vendas e receita total, facilitando o acompanhamento de resultados e a identificação de desvios.
 
 ---
 
 ### 🔹 Desempenho por Produto
-![Desempenho por Produto](desempenho_produto.png)
+![Desempenho por Produto](Projeto-1-Rede_de_cafeteria/Outputs/Imagens/desempenho_produto.png)
 
 Este gráfico permite identificar quais produtos são responsáveis pela maior parcela da receita, auxiliando decisões sobre estoque, precificação e foco comercial.
 
 ---
 
 ### 🔹 Receita por Loja
-![Receita por Loja](lojas_receita.png)
+![Receita por Loja](Projeto-1-Rede_de_cafeteria/Outputs/Imagens/lojas_receita.png)
 
 A visualização compara o desempenho das lojas, evidenciando aquelas com maior contribuição para a receita total e possíveis oportunidades de melhoria.
 
 ---
 
 ### 🔹 Vendas por Loja
-![Vendas por Loja](vendas_loja.png)
+![Vendas por Loja](Projeto-1-Rede_de_cafeteria/Outputs/Imagens/vendas_loja.png)
 
 Mostra o volume de vendas por unidade, permitindo avaliar eficiência operacional e performance individual das lojas.
 
 ---
 
 ### 🔹 Vendas Diárias
-![Vendas Diárias](vendas_diarias.png)
+![Vendas Diárias](Projeto-1-Rede_de_cafeteria/Outputs/Imagens/vendas_diarias.png)
 
 Este gráfico temporal ajuda a identificar padrões de comportamento ao longo dos dias, como picos de vendas, sazonalidade ou quedas relevantes.
+
+### 🔹 Dashboard completo
+![Dashboard](Projeto-1-Rede_de_cafeteria/Outputs/Imagens/Dash.png)
 
 ---
 
