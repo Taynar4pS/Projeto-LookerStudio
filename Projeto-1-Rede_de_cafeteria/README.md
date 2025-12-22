@@ -49,7 +49,7 @@ Este gráfico permite identificar quais produtos são responsáveis pela maior p
 ---
 
 ### 🔹 Receita por Loja
-![Receita por Loja](Outputs/Imagens/lojas_receita.png)
+![Receita por Loja](Outputs/Imagens/lojas_receitas.png)
 
 A visualização compara o desempenho das lojas, evidenciando aquelas com maior contribuição para a receita total e possíveis oportunidades de melhoria.
 
