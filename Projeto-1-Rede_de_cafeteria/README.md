@@ -70,6 +70,7 @@ Este gráfico temporal ajuda a identificar padrões de comportamento ao longo do
 ### 🔹 Dashboard completo
 ![Dashboard](Projeto-1-Rede_de_cafeteria/Outputs/Imagens/Dash.png)
 
+
 ---
 
 ## 🛠️ Ferramentas Utilizadas
