@@ -45,7 +45,7 @@ Para garantir a correta visualização geográfica no Looker Studio, foi adotada
 
 ## 🌍 Vendas por Continente
 
-![Vendas por Continente](Outputs/Imagens/vendas_continente.png)
+![Vendas por Continente](Outputs/Imagens/vendas_continentes.png)
 
 Este gráfico permite comparar o desempenho de vendas entre continentes, evidenciando:
 - Regiões com maior participação no mercado
@@ -55,7 +55,7 @@ Este gráfico permite comparar o desempenho de vendas entre continentes, evidenc
 
 ## 🎮 Vendas por Plataforma
 
-![Vendas por Plataforma](Outputs/Imagens/Plataformas_vendas.png)
+![Vendas por Plataforma](Outputs/Imagens/Plataforma_vendas.png)
 
 Análise do volume de vendas por plataforma, permitindo identificar:
 - Consoles mais relevantes
