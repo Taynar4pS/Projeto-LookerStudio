@@ -3,6 +3,8 @@
 Este projeto apresenta um **dashboard interativo desenvolvido no Looker Studio**, com foco na **análise de vendas globais de video games**.  
 O objetivo é fornecer uma visão clara e estratégica sobre **desempenho por continente, plataforma, gênero e empresas**, apoiando a tomada de decisão baseada em dados.
 
+🔗 **Acesse o relatório interativo:**  
+https://lookerstudio.google.com/s/n37uJBjMp9Q
 ---
 
 ## 🧠 Contexto do Projeto
