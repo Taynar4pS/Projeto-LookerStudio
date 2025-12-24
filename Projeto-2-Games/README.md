@@ -7,7 +7,10 @@ O objetivo é fornecer uma visão clara e estratégica sobre **desempenho por co
 https://lookerstudio.google.com/s/n37uJBjMp9Q
 
 ---
+## Pergunta de negócio:
+Como as vendas globais de video games se distribuem entre continentes, plataformas, gêneros e publishers, e quais segmentos concentram maior participação no mercado?
 
+---
 ## 🧠 Contexto do Projeto
 
 O demandante gostaria de:
@@ -28,7 +31,7 @@ Os KPIs no topo do dashboard apresentam uma visão geral do cenário:
 
 - 💰 **Global Sales**: Total de vendas globais
 - 🌍 **Other Sales**: Vendas em regiões secundárias
-- 🎯 **Total de Vendas Consolidadas**
+- 🎯 **Total Consolidado**: Soma geral das vendas analisadas
 
 Esses indicadores permitem uma leitura rápida do desempenho geral do mercado.
 
@@ -39,7 +42,7 @@ Esses indicadores permitem uma leitura rápida do desempenho geral do mercado.
 ![Mapa](Outputs/Imagens/Mapa.png)
 
 O mapa apresenta a **distribuição das vendas por continente**.  
-Para garantir a correta visualização geográfica no Looker Studio, foi adotada uma modelagem baseada em **países representativos por continente**, respeitando as limitações da ferramenta.
+Para garantir a correta visualização geográfica no Looker Studio, foi adotada uma modelagem baseada em países representativos por continente, respeitando as limitações nativas da ferramenta e preservando a análise em nível continental.
 
 ---
 
@@ -104,6 +107,17 @@ Durante o desenvolvimento, alguns desafios relevantes foram enfrentados:
   Evitou-se poluição visual ao exibir rótulos apenas para os itens mais relevantes.
 
 Esses desafios contribuíram para um melhor entendimento sobre **modelagem de dados, limitações de ferramentas de BI e boas práticas de visualização**.
+ ---
+
+##🧠 Principais Insights do Dashboard
+
+- 🌍 América do Norte lidera o volume de vendas, indicando forte concentração do consumo nesse mercado.
+
+- 🎮 Poucas plataformas concentram a maior parte das vendas, reforçando a importância de estratégias focadas nos principais consoles.
+
+- 🧩 Gêneros específicos dominam o mercado, sugerindo preferência clara do consumidor e oportunidades de investimento direcionado.
+
+- 🏢 O mercado apresenta alta concentração entre grandes publishers, com poucas empresas respondendo por grande parte da receita global.
 
 ---
 
