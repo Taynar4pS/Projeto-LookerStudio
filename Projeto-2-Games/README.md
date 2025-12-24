@@ -84,7 +84,10 @@ Treemap que destaca as empresas com maior volume de vendas, evidenciando:
 - Concentração de receita entre publishers
 
 ---
+## Dashboard completo
+![Dashboard](Outputs/Imagens/Dash.png)
 
+---
 ## 🚧 Percalços e Aprendizados do Projeto
 
 Durante o desenvolvimento, alguns desafios relevantes foram enfrentados:
