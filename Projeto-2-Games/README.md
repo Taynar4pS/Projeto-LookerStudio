@@ -24,7 +24,7 @@ O dashboard foi desenvolvido com **identidade visual inspirada no universo gamer
 
 Os KPIs no topo do dashboard apresentam uma visão geral do cenário:
 
-![KPIs](KPI's.png)
+![KPIs](Outputs/Imagens/KPI's.png)
 
 - 💰 **Global Sales**: Total de vendas globais
 - 🌍 **Other Sales**: Vendas em regiões secundárias
