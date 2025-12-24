@@ -5,6 +5,7 @@ O objetivo é fornecer uma visão clara e estratégica sobre **desempenho por co
 
 🔗 **Acesse o relatório interativo:**  
 https://lookerstudio.google.com/s/n37uJBjMp9Q
+
 ---
 
 ## 🧠 Contexto do Projeto
