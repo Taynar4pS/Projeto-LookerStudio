@@ -109,7 +109,7 @@ Durante o desenvolvimento, alguns desafios relevantes foram enfrentados:
 Esses desafios contribuíram para um melhor entendimento sobre **modelagem de dados, limitações de ferramentas de BI e boas práticas de visualização**.
  ---
 
-##🧠 Principais Insights do Dashboard
+## 🧠 Principais Insights do Dashboard
 
 - 🌍 América do Norte lidera o volume de vendas, indicando forte concentração do consumo nesse mercado.
 
