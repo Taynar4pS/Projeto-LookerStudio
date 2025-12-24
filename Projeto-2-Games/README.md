@@ -139,7 +139,8 @@ O dashboard entrega uma visão estratégica do mercado global de games, combinan
 - Visual atrativo
 - Decisões orientadas por dados
 
-Este projeto demonstra habilidades em **análise de dados, BI e resolução de problemas reais**, sendo parte de um portfólio voltado para atuação como **Analista de Dados / BI**.
+Este projeto demonstra a aplicação prática de Business Intelligence e Data Visualization na análise do mercado global de video games.
+Ao integrar KPIs, mapas e gráficos estratégicos, o dashboard permite identificar padrões de consumo, concentração de mercado e oportunidades de negócio, reforçando a importância de decisões orientadas por dados.
 
 ---
 
