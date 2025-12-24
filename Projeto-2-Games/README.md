@@ -111,13 +111,14 @@ Esses desafios contribuíram para um melhor entendimento sobre **modelagem de da
 
 ## 🧠 Principais Insights do Dashboard
 
-- 🌍 América do Norte lidera o volume de vendas, indicando forte concentração do consumo nesse mercado.
+- 🌍 América do Norte lidera o volume de vendas, indicando forte concentração do consumo e maior maturidade do mercado na região.
 
 - 🎮 Poucas plataformas concentram a maior parte das vendas, reforçando a importância de estratégias focadas nos principais consoles.
 
-- 🧩 Gêneros específicos dominam o mercado, sugerindo preferência clara do consumidor e oportunidades de investimento direcionado.
+- 🧩 Gêneros específicos dominam o mercado, sugerindo preferências claras do consumidor e oportunidades de investimento direcionado.
 
 - 🏢 O mercado apresenta alta concentração entre grandes publishers, com poucas empresas respondendo por grande parte da receita global.
+
 
 ---
 
@@ -140,7 +141,7 @@ O dashboard entrega uma visão estratégica do mercado global de games, combinan
 - Decisões orientadas por dados
 
 Este projeto demonstra a aplicação prática de Business Intelligence e Data Visualization na análise do mercado global de video games.
-Ao integrar KPIs, mapas e gráficos estratégicos, o dashboard permite identificar padrões de consumo, concentração de mercado e oportunidades de negócio, reforçando a importância de decisões orientadas por dados.
+Ao integrar KPIs, mapas e gráficos estratégicos, o dashboard permite identificar padrões de consumo, concentração de mercado e oportunidades de negócio, reforçando decisões orientadas por dados.
 
 ---
 
